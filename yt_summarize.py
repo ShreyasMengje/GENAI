@@ -1,3 +1,10 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+
+
 import streamlit as st
 from dotenv import load_dotenv
 
